@@ -5,6 +5,8 @@ Simple game to introduce physics on SpriteKit framework, it also uses Game Cente
 
 The game is very simple, to start a new round you just have to tap the screen. Your goal is to control a small red ball and go as far as possible with the remaining time.
 
+If you touch the right side of the screen you move the ball to the right, same for the left side.
+
 You have to avoid the obstacles that will have different interactions with the red ball. Random clocks will show up on the screen, you can pick it to increase the remaining time.
 
 You can also use some special powers that you can buy with coins that you earn at the end of each round, it will make the game easier for some seconds. 
